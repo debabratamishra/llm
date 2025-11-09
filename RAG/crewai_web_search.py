@@ -7,9 +7,6 @@ Architecture for minimal API usage:
 2. Content Crawler - Uses Firecrawl only for essential pages
 3. Synthesizer - Combines and presents results
 
-Model: gemma3n:e2b (Ollama)
-Environment: llm_ui (conda)
-
 USAGE:
     from crewai_web_search import WebSearchCrew
     
